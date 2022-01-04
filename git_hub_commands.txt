@@ -1,0 +1,30 @@
+git hub for webpage
+1/4/2022
+
+https://glorialondon.github.io
+---------------------------------------
+Git Hub log in:
+glorialondon18@gmail.com
+RedClay18
+---------------------------------------
+
+
+commands used to update the webpage: 
+
+
+1. clone the new repository
+
+git clone https://github.com/glorialondon/glorialondon.github.io
+
+
+2. go to the project folder
+cd glorialondon.github.io
+echo "Hello World" > index.html
+
+3. Add, commit, and push your changes:
+
+git add --all
+git commit -m "Initial commit"
+git push -u origin main
+
+
